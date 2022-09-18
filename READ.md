@@ -1,0 +1,1 @@
+#Patika.dev front-end geliştiriciliği kapsamında oluşturduğum bölüm sonu projesi
